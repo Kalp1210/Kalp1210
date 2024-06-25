@@ -3,10 +3,7 @@
 
 ---
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalp-Rambhia">
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalp-rambhia&" alt="kalp-rambhia" /></p>
 
  ---
  
