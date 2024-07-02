@@ -4,7 +4,7 @@
 
 <p align="center">
 
- [![GitHub Streak](https://github-readme-streak-stats-sand.vercel.app?user=kalp-rambhia&theme=gruvbox&border_radius=6)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kalp1210"/>
  
 </p>
 
