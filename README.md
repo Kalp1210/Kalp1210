@@ -1,12 +1,13 @@
 <h1>Hey, I'm <a target="_blank" href="https://palash2911.github.io/All-About-Me/">Kalp Rambhia</a> 🤝</h1></h1>
 <h1>I am and a Web Designer 📱📱</h1>
 
----
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalp-rambhia&" alt="kalp-rambhia" /></p>
+<p align="center">
 
- ---
+ [![GitHub Streak](https://github-readme-streak-stats-sand.vercel.app?user=kalp-rambhia&theme=gruvbox&border_radius=6)](https://git.io/streak-stats)
  
+</p>
+
 - 👨‍🎓Hey there, I am Kalp Rambhia, currently embarking on my engineering journey<br/>
 - 💻I am 📱**Web Developer Enthusiast**<br/>
 - I love to code in **C++**.<br/>
