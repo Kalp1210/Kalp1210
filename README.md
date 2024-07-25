@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kalp1210"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalp1210"/>
  
 </p>
 
