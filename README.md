@@ -1,5 +1,5 @@
 <h1>Bonjour, I'm <a target="_blank" href="https://palash2911.github.io/All-About-Me/">Kalp Rambhia</a> 🤝</h1></h1>
-<h1>I am and a Web Designer 📱📱</h1>
+<h1>I am a Web Designer 📱📱</h1>
 
 
 <p align="center">
