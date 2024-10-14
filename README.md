@@ -8,7 +8,7 @@
  
 </p>
 
-- 👨‍🎓Hey there, I am Kalp Rambhia, currently embarking on my engineering journey<br/>
+- 👨‍🎓Hey there, I am Kalp Rambhia, currently embarking on my engineering journey.<br/>
 - 💻I am a 📱**Web Developer Enthusiast**<br/>
 - I love to code.<br/>
 
