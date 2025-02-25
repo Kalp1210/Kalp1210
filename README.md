@@ -1,5 +1,5 @@
 <h1>Bonjour, I'm <a target="_blank" href="https://palash2911.github.io/All-About-Me/">Kalp Rambhia</a> 🤝</h1></h1>
-<h1>I am a Web Designer 📱📱</h1>
+<h1>I am a Web/App Designer 📱📱</h1>
 
 
 <p align="center">
@@ -9,14 +9,14 @@
 </p>
 
 - 👨‍🎓Hey there, I am Kalp Rambhia, currently embarking on my engineering journey.<br/>
-- 💻I am a 📱**Web Developer Enthusiast**<br/>
+- 💻I am a 📱**Web/App Developer Enthusiast**<br/>
 - I love to code.<br/>
 
 <h1>My Skills 🛠</h1>
 
 <p align="center"> 
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<!-- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> -->
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <!-- <img alt="MarkDown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> -->
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,10 +25,10 @@
 <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <!-- <img alt="VueJs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /> -->
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<!-- <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-orange?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<!-- <!-- <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-orange?&style=for-the-badge&logo=kotlin&logoColor=white" /> -->
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-white?&style=for-the-badge&logo=flutter&logoColor=blue" />
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffdd00?style=for-the-badge&logo=firebase&logoColor=orange" />
-<img alt="My SQL" src="https://img.shields.io/badge/mysql-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white" /> -->
+<!-- <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffdd00?style=for-the-badge&logo=firebase&logoColor=orange" /> -->
+<!-- <img alt="My SQL" src="https://img.shields.io/badge/mysql-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white" /> --> -->
 <img alt="Git" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <!-- <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> -->
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
