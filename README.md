@@ -28,7 +28,7 @@
 <!-- <!-- <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-orange?&style=for-the-badge&logo=kotlin&logoColor=white" /> -->
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-white?&style=for-the-badge&logo=flutter&logoColor=blue" />
 <!-- <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffdd00?style=for-the-badge&logo=firebase&logoColor=orange" /> -->
-<!-- <img alt="My SQL" src="https://img.shields.io/badge/mysql-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white" /> --> -->
+<!-- <img alt="My SQL" src="https://img.shields.io/badge/mysql-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white" /> --> 
 <img alt="Git" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <!-- <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> -->
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
